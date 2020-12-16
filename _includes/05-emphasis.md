@@ -1,1 +1,2 @@
-I am a sales professional determined to learn to code. I need to change careers and I know I can be successful as long as I do not give up. 
+**I know I can be successful as long as I do not give up.**
+_When others think I can not do something_ it makes me even more determined to **accomlish** it.
