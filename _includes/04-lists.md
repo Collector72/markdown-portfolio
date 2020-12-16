@@ -1,4 +1,4 @@
-*Friends :smile:
-*Money :tada:
-*Animals :heart:
-*Sleep :zzz:
+- Friends :smile:
+- Money :tada:
+- Animals :heart:
+- Sleep :zzz:
